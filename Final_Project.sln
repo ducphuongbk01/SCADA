@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Final_Project", "Final_Project\Final_Project.csproj", "{F7763954-EFBE-4C2D-BAEF-FDB2BED997EB}"
+EndProject
+Project("{840C416C-B8F3-42BC-B0DD-F6BB14C9F8CB}") = "SCADA_Application", "SCADA_Application\SCADA_Application.aiproj", "{E20F60A1-A712-422C-85B0-D42FA7B3144D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7763954-EFBE-4C2D-BAEF-FDB2BED997EB}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{F7763954-EFBE-4C2D-BAEF-FDB2BED997EB}.All|Any CPU.Build.0 = Release|Any CPU
+		{F7763954-EFBE-4C2D-BAEF-FDB2BED997EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7763954-EFBE-4C2D-BAEF-FDB2BED997EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7763954-EFBE-4C2D-BAEF-FDB2BED997EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7763954-EFBE-4C2D-BAEF-FDB2BED997EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E20F60A1-A712-422C-85B0-D42FA7B3144D}.All|Any CPU.ActiveCfg = DefaultBuild
+		{E20F60A1-A712-422C-85B0-D42FA7B3144D}.Debug|Any CPU.ActiveCfg = DefaultBuild
+		{E20F60A1-A712-422C-85B0-D42FA7B3144D}.Release|Any CPU.ActiveCfg = DefaultBuild
+		{E20F60A1-A712-422C-85B0-D42FA7B3144D}.Release|Any CPU.Build.0 = DefaultBuild
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DA60071-9C58-4E5C-BCF7-790B17C30722}
+	EndGlobalSection
+EndGlobal
